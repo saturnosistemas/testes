@@ -1,0 +1,7 @@
+{
+	"lastVersion": "20.11.0.0",
+	"20.11.0.0": {
+		"cliente": "https://github.com/saturnosistemas/testes/raw/master/UpdateCliente20.11.0.0.exe",
+		"servidor": "https://github.com/saturnosistemas/testes/raw/master/Update20.11.0.0.exe"
+	}
+}
