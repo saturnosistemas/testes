@@ -1,13 +1,1 @@
-{
-	"lastVersion": "20.11.0.0",
-	"20.11.0.0": {
-		"cliente": {
-			"downloadLink": "https://github.com/saturnosistemas/testes/raw/master/UpdateCliente20.11.0.0.exe",
-			"md5": "0DC0C6EFDEAB7704F9F98C903929A601"
-		},
-		"servidor": {
-			"downloadLink": "https://github.com/saturnosistemas/testes/raw/master/Update20.11.0.0.exe",
-			"md5": "109B0ED418BC4CD39875EF614CE6C304"
-		}
-	}
-}
+{"lastVersion":"20.4.0.0","20.4.0.0":{"cliente":{"downloadLink":"https://github.com/saturnosistemas/testes/raw/master/UpdateCliente20.4.0.0.exe","md5":"a3d64829d0ae4e4fe67f31024372b523"},"servidor":{"downloadLink":"https://github.com/saturnosistemas/testes/raw/master/UpdateServidor20.4.0.0.exe","md5":"4b2b6a9f54086030a1560ec1bd59e049"}}}
