@@ -3,11 +3,11 @@
     "20.4.0.0": {
         "cliente": {
             "downloadLink": "https://github.com/saturnosistemas/testes/raw/master/UpdateCliente20.4.0.0.exe",
-            "md5": "57bba26b93f7a10b2769732b378a4aea"
+            "md5": "f59b56593cb8258a3301b4ecda26d96d"
         },
         "servidor": {
             "downloadLink": "https://github.com/saturnosistemas/testes/raw/master/UpdateServidor20.4.0.0.exe",
-            "md5": "0c9c600fd1f417fe3f217878f9ec0a59"
+            "md5": "b9663a8018a9dfa771c8b70eb1cbc261"
         }
     }
 }
